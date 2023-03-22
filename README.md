@@ -1,9 +1,7 @@
 # Hi Friend, I'm Raynoalief! 👋
 ### 🧑‍💻 About Me :
 
-#### I'm from Indonesia.
-
-I'm a fullstack developer, from PHP with CI3 framework and now I'm learning React and React Native, I hope this brief introduction is memorable for you, and I can't wait to work with you
+early 2016, I used php with Codeigniter 3 framework and now I'm learning react, and react native, I hope this brief introduction was memorable for you, and I can't wait to work with you
 
 ---
 
