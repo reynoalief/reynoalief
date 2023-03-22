@@ -36,7 +36,7 @@ early 2016, I used php with Codeigniter 3 framework and now I'm learning react, 
 
 
 
-### Ooh Nooo my contribution graph get eaten by the snake 🐍
+### my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
 
