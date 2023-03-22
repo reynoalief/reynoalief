@@ -35,7 +35,7 @@ early 2016, I used php with Codeigniter 3 framework and now I'm learning react, 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynoalief&layout=compact"/>
 
 
-
+---
 ### my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
