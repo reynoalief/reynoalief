@@ -40,4 +40,4 @@ early 2016, I used php with Codeigniter 3 framework and now I'm learning react, 
 
 <!-- platane/snk works, it just puts it on a new branch -->
 
-![mishmanners snake gif](https://github.com/reynoalief/reynoalief/blob/output/github-contribution-grid-snake.svg)
+![mishmanners snake gif](https://github.com/reynoalief/reynoalief/blob/output/github-user-contribution.svg)
