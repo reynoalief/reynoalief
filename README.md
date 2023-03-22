@@ -31,7 +31,5 @@ early 2016, I used php with Codeigniter 3 framework and now I'm learning react, 
 
 ---
 ### My Github Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reynoalief)](https://github.com/anuraghazra/github-readme-stats)
-
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=reynoalief&show_icons=true&theme=dracula"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynoalief&layout=compact"/>
