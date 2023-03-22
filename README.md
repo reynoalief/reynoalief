@@ -1,7 +1,8 @@
 # Hi Friend, I'm Raynoalief! 👋
 ### 🧑‍💻 About Me :
 
-early 2016, I used php with Codeigniter 3 framework and now I'm learning react, and react native, I hope this brief introduction was memorable for you, and I can't wait to work with you
+Early 2016, I used php with the CodeIgniter 3 framework to develop
+company profile, and made a program for positive and negative sentiment analysis of covid19 with data from twitter and now I'm learning react, and react native, my new experience is creating and developing online stores, recruiting applications, payment applications, and ticket ordering application projects. I hope this brief introduction was memorable for you
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/m-raynoalief-rar//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/raynoalief/)  
 ---
