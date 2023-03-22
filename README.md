@@ -31,8 +31,8 @@ early 2016, I used php with Codeigniter 3 framework and now I'm learning react, 
 
 ---
 ### My Github Stats :
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=reynoalief&show_icons=true&theme=dracula"/>
-<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynoalief&layout=compact"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=reynoalief&show_icons=true&theme=dracula"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynoalief&layout=compact"/>
 
 
 ### Ohhh Noooo my contribution graph get eaten by the snake 🐍
